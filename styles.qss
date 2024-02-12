@@ -1,0 +1,744 @@
+QPushButton{
+    /* background: qlineargradient(x1:0, y1:0, x2:0, y2:1, stop:0 #3498db, stop:1 #297fb8); */
+
+    color: white;
+    border: 1px solid #abdbe3;  
+    border-radius: 5px; 
+    /* background-color: #0096FF;      */
+    margin: 5px;
+     
+    background-color:#343434
+}
+
+/* Hover state styles */
+QPushButton:hover {
+    background: qlineargradient(x1:0, y1:0, x2:0, y2:1, stop:0 #36454F, stop:1 #343434);
+}
+
+QMainWindow {
+    background: qlineargradient(x1:0, y1:0, x2:1, y2:0,
+                                stop:0 #5F9EA0,    /* Dark blue */
+                                stop:1 #40E0D0);   /* Concentrated light blue */
+}
+
+
+#widget_3 {
+    /*background: qlineargradient(x1:0, y1:0, x2:0, y2:1,
+                                stop:0 #78999f,    
+                                stop:1 #9ac5cc);   */
+     
+    border: 1px solid#abdbe3;  
+    border-radius: 5px; 
+    background-color:#343434;
+      
+    margin: 5px;
+    padding: 10px;         
+}
+#widget_4 {
+    /*background: qlineargradient(x1:0, y1:0, x2:0, y2:1,
+                                stop:0 #78999f,    
+                                stop:1 #9ac5cc);   */
+     
+    border: 1px solid#abdbe3;  
+    border-radius: 5px;      
+    margin: 20px;
+    padding: 10px;            
+}
+#stackedWidget {
+    /*background: qlineargradient(x1:0, y1:0, x2:0, y2:1,
+                                stop:0 #78999f,    
+                                stop:1 #9ac5cc);   */
+    /* background-color:#343434;
+  */
+    border: 1px solid #abdbe3;  
+    border-radius: 5px; 
+    /* background-color:#343434;
+       */
+    margin: 5px;   
+}
+#accountslabel {
+    /*background: qlineargradient(x1:0, y1:0, x2:0, y2:1,
+                                stop:0 #78999f,    
+                                stop:1 #9ac5cc);   */
+     
+    border: 1px solid #abdbe3;  
+    border-radius: 5px; 
+    background-color:#343434;
+      
+    margin: 5px;
+           
+}
+#Algolabel {
+    /*background: qlineargradient(x1:0, y1:0, x2:0, y2:1,
+                                stop:0 #78999f,    
+                                stop:1 #9ac5cc);   */
+    /* background-color: #89afb6;  */
+    border: 1px solid #abdbe3;  
+    border-radius: 5px; 
+    background-color:#343434;
+      
+    margin: 5px;
+           
+}
+#mt5label{
+   
+    border: 1px solid #abdbe3;  
+    border-radius: 5px; 
+    background-color:#343434;
+      
+    margin: 5px;
+           
+}
+#performancelabel
+{
+    border: 1px solid #abdbe3;  
+    border-radius: 5px; 
+    background-color:#343434;
+      
+    margin: 5px;
+           
+}
+/* #widget_5 { */
+    /*background: qlineargradient(x1:0, y1:0, x2:0, y2:1,
+                                stop:0 #78999f,    
+                                stop:1 #9ac5cc);   */
+    /* background-color: #89afb6;  */
+    /* border: 1px solid #abdbe3;   */
+    /* border-radius: 5px;       */
+    /* margin: 5px;
+            */
+/* } */
+#adjustparamslabel {
+   
+    border: 1px solid #abdbe3;  
+    border-radius: 5px; 
+    background-color:#343434;
+      
+    margin: 5px;
+           
+}
+#activationlabel {
+   
+    border: 1px solid #abdbe3;  
+    border-radius: 5px; 
+    background-color:#343434;
+      
+    margin: 5px;
+           
+}
+#accountpageperfotmancelabel {
+   
+    border: 1px solid #abdbe3;  
+    border-radius: 5px; 
+    background-color:#343434;
+      
+    margin: 5px;
+           
+}
+#accountspagemt5label {
+   
+    border: 1px solid #abdbe3;  
+    border-radius: 5px; 
+    background-color:#343434;
+      
+    margin: 5px;
+           
+}
+#mainlogo {
+    /*background: qlineargradient(x1:0, y1:0, x2:0, y2:1,
+                                stop:0 #78999f,    
+                                stop:1 #9ac5cc);   */
+    /* background-color: #89afb6;  */
+    /* border: 1px solid #abdbe3;   */
+    border-radius: 5px;      
+    margin: 12px;       
+}
+#logosub {
+    /*background: qlineargradient(x1:0, y1:0, x2:0, y2:1,
+                                stop:0 #78999f,    
+                                stop:1 #9ac5cc);   */
+    /* background-color: #89afb6;  */
+    /* border: 1px solid #abdbe3;   */
+    border-radius: 5px;      
+    margin-top: 15;       
+}
+#widget_34 {
+   
+    border: 1px solid #abdbe3;  
+    border-radius: 5px; 
+    background-color:#343434;
+      
+    margin: 5px;
+           
+}
+#widget_33 {
+   
+    border: 1px solid #abdbe3;  
+    border-radius: 5px; 
+    background-color:#343434;
+      
+    margin: 5px;
+           
+}
+QLineEdit {
+    border: 1px solid #abdbe3;  
+    border-radius: 5px;      
+    margin: 2px; 
+    padding: 3px;           
+}
+QLabel {
+    color: white;
+    text-align: center;
+    margin: 8px; /* or other preferred alignment */
+    /* Additional styles for QLabel */
+}
+#widget_72 {
+   
+    border: 1px solid #abdbe3;  
+    border-radius: 5px; 
+    background-color:#343434;
+      
+    margin: 5px;
+           
+}
+#widget {
+   
+    border: 1px solid #abdbe3;  
+    border-radius: 5px; 
+    background-color:#343434;
+      
+    margin: 5px;
+           
+}
+#widget_8 {
+   
+    border: 1px solid #abdbe3;  
+    border-radius: 5px; 
+    background-color:#343434;
+      
+    margin: 5px;
+           
+}
+#widget_51 {
+   
+    border: 1px solid #abdbe3;  
+    border-radius: 5px; 
+    background-color:#343434;
+      
+    margin: 5px;
+           
+}
+#widget_14 {
+   
+    border: 1px solid #abdbe3;  
+    border-radius: 5px; 
+    background-color:#343434;
+      
+    margin: 5px;
+           
+}
+#widget_15 {
+   
+    border: 1px solid #abdbe3;  
+    border-radius: 5px; 
+    background-color:#343434;
+      
+    margin: 5px;
+           
+}
+#frame2 {
+   
+    border: 1px solid #abdbe3;  
+    border-radius: 5px; 
+    background-color:#343434;
+      
+    margin: 5px;
+           
+}
+#widget_13 {
+   
+    border: 1px solid #abdbe3;  
+    border-radius: 5px; 
+    background-color:#343434;
+      
+    margin: 5px;
+           
+}
+#widget_36 {
+   
+    border: 1px solid #abdbe3;  
+    border-radius: 5px; 
+    background-color:#343434;
+      
+    margin: 5px;
+           
+}
+#algoadjustparamlabel {
+   
+    border: 1px solid #abdbe3;  
+    border-radius: 5px; 
+    background-color:#343434;
+      
+    margin: 5px;
+           
+}
+#algoactivationlabel {
+   
+    border: 1px solid #abdbe3;  
+    border-radius: 5px; 
+    background-color:#343434;
+      
+    margin: 5px;
+           
+}
+#statuslabel {
+   
+    border: 1px solid #abdbe3;  
+    border-radius: 5px; 
+    background-color:#343434;
+      
+    margin: 5px;
+           
+}
+#filstatus {
+   
+    border: 1px solid #abdbe3;  
+    border-radius: 5px; 
+    background-color:#343434;
+      
+    margin: 5px;
+           
+}
+#widget_19 {
+   
+    border: 1px solid #abdbe3;  
+    border-radius: 5px; 
+    background-color:#343434;
+      
+    margin: 5px;
+           
+}
+#widget_20 {
+   
+    border: 1px solid #abdbe3;  
+    border-radius: 5px; 
+    background-color:#343434;
+      
+    margin: 5px;
+           
+}
+#widget_21 {
+   
+    border: 1px solid #abdbe3;  
+    border-radius: 5px; 
+    background-color:#343434;
+      
+    margin: 5px;
+           
+}
+#widget_17 {
+   
+    border: 1px solid #abdbe3;  
+    border-radius: 5px; 
+    background-color:#343434;
+      
+    margin: 5px;
+           
+}
+#widget_18 {
+   
+    border: 1px solid #abdbe3;  
+    border-radius: 5px; 
+    background-color:#343434;
+      
+    margin: 5px;
+           
+}
+
+#widget_2 {
+   
+    border: 1px solid #abdbe3;  
+    border-radius: 5px; 
+    background-color:#343434;
+      
+    margin: 5px;
+           
+}
+#widget_9 {
+   
+    border: 1px solid #abdbe3;  
+    border-radius: 5px; 
+    background-color:#343434;
+      
+    margin: 5px;
+           
+}
+#widget_12 {
+   
+    border: 1px solid #abdbe3;  
+    border-radius: 5px; 
+    background-color:#343434;
+      
+    margin: 5px;
+           
+}
+#widget_11 {
+   
+    border: 1px solid #abdbe3;  
+    border-radius: 5px; 
+    background-color:#343434;
+      
+    margin: 5px;
+           
+}
+#widget_24 {
+   
+    border: 1px solid #abdbe3;  
+    border-radius: 5px; 
+    background-color:#343434;
+      
+    margin: 5px;
+           
+}
+#widget_23 {
+   
+    border: 1px solid #abdbe3;  
+    border-radius: 5px; 
+    background-color:#343434;
+      
+    margin: 5px;
+           
+}
+#widget_25 {
+   
+    border: 1px solid #abdbe3;  
+    border-radius: 5px; 
+    background-color:#343434;
+      
+    margin: 5px;
+           
+}
+#widget_26 {
+   
+    border: 1px solid #abdbe3;  
+    border-radius: 5px; 
+    background-color:#343434;
+      
+    margin: 5px;
+           
+}
+#widget_9 {
+   
+    border: 1px solid #abdbe3;  
+    border-radius: 5px; 
+    background-color:#343434;
+      
+    margin: 5px;
+           
+}
+#widget_2 {
+   
+    border: 1px solid #abdbe3;  
+    border-radius: 5px; 
+    background-color:#343434;
+      
+    margin: 5px;
+           
+}
+#widget_71 {
+   
+    border: 1px solid #abdbe3;  
+    border-radius: 5px; 
+    background-color:#343434;
+      
+    margin: 5px;
+           
+}
+#widget_41 {
+   
+    border: 1px solid #abdbe3;  
+    border-radius: 5px; 
+    background-color:#343434;
+      
+    margin: 5px;
+           
+}
+#widget_46 {
+   
+    border: 1px solid #abdbe3;  
+    border-radius: 5px; 
+    background-color:#343434;
+      
+    margin: 5px;
+           
+}
+#widget_47 {
+   
+    border: 1px solid #abdbe3;  
+    border-radius: 5px; 
+    background-color:#343434;
+      
+    margin: 5px;
+           
+}
+#widget_46 {
+   
+    border: 1px solid #abdbe3;  
+    border-radius: 5px; 
+    background-color:#343434;
+      
+    margin: 5px;
+           
+}
+#widget_49 {
+   
+    border: 1px solid #abdbe3;  
+    border-radius: 5px; 
+    background-color:#343434;
+      
+    margin: 5px;
+           
+}
+#widget_50 {
+   
+    border: 1px solid #abdbe3;  
+    border-radius: 5px; 
+    background-color:#343434;
+      
+    margin: 5px;
+           
+}
+#widget_53 {
+   
+    border: 1px solid #abdbe3;  
+    border-radius: 5px; 
+    background-color:#343434;
+      
+    margin: 5px;
+           
+}
+#widget_60 {
+   
+    border: 1px solid #abdbe3;  
+    border-radius: 5px; 
+    background-color:#343434;
+      
+    margin: 5px;
+           
+}
+#widget_56 {
+   
+    border: 1px solid #abdbe3;  
+    border-radius: 5px; 
+    background-color:#343434;
+      
+    margin: 5px;
+           
+}
+#widget_58 {
+   
+    border: 1px solid #abdbe3;  
+    border-radius: 5px; 
+    background-color:#343434;
+      
+    margin: 5px;
+           
+}
+#widget_59 {
+   
+    border: 1px solid #abdbe3;  
+    border-radius: 5px; 
+    background-color:#343434;
+      
+    margin: 5px;
+           
+}
+#widget_63 {
+   
+    border: 1px solid #abdbe3;  
+    border-radius: 5px; 
+    background-color:#343434;
+      
+    margin: 5px;
+           
+}
+#widget_46 {
+   
+    border: 1px solid #abdbe3;  
+    border-radius: 5px; 
+    background-color:#343434;
+      
+    margin: 5px;
+           
+}
+#widget_62 {
+   
+    border: 1px solid #abdbe3;  
+    border-radius: 5px; 
+    background-color:#343434;
+      
+    margin: 5px;
+           
+}
+#widget_39 {
+   
+    border: 1px solid #abdbe3;  
+    border-radius: 5px; 
+    background-color:#343434;
+      
+    margin: 5px;
+           
+}
+#widget_64 {
+   
+    border: 1px solid #abdbe3;  
+    border-radius: 5px; 
+    background-color:#343434;
+      
+    margin: 5px;
+           
+}
+#widget_65 {
+   
+    border: 1px solid #abdbe3;  
+    border-radius: 5px; 
+    background-color:#343434;
+      
+    margin: 5px;
+           
+}
+#widget_12 {
+   
+    border: 1px solid #abdbe3;  
+    border-radius: 5px; 
+    background-color:#343434;
+      
+    margin: 5px;
+           
+}
+#widget_36 {
+   
+    border: 1px solid #abdbe3;  
+    border-radius: 5px; 
+    background-color:#343434;
+      
+    margin: 5px;
+           
+}
+#widget_37 {
+   
+    border: 1px solid #abdbe3;  
+    border-radius: 5px; 
+    background-color:#343434;
+      
+    margin: 5px;
+           
+}
+#widget_38 {
+   
+    border: 1px solid #abdbe3;  
+    border-radius: 5px; 
+    background-color:#343434;
+      
+    margin: 5px;
+           
+}
+#widget_39 {
+   
+    border: 1px solid #abdbe3;  
+    border-radius: 5px; 
+    background-color:#343434;
+      
+    margin: 5px;
+           
+}
+#widget_40 {
+   
+    border: 1px solid #abdbe3;  
+    border-radius: 5px; 
+    background-color:#343434;
+      
+    margin: 5px;
+           
+}
+#widget_22 {
+   
+    border: 1px solid #abdbe3;  
+    border-radius: 5px; 
+    background-color:#343434;
+      
+    margin: 5px;
+           
+}
+
+#widget_42 {
+   
+    border: 1px solid #abdbe3;  
+    border-radius: 5px; 
+    background-color:#343434;
+      
+    margin: 5px;
+           
+}
+#widget_43 {
+   
+    border: 1px solid #abdbe3;  
+    border-radius: 5px; 
+    background-color:#343434;
+      
+    margin: 5px;
+           
+}
+#widget_44 {
+   
+    border: 1px solid #abdbe3;  
+    border-radius: 5px; 
+    background-color:#343434;
+      
+    margin: 5px;
+           
+}
+#widget_45 {
+   
+    border: 1px solid #abdbe3;  
+    border-radius: 5px; 
+    background-color:#343434;
+      
+    margin: 5px;
+           
+}
+
+QScrollArea {
+    background: transparent;
+}
+QScrollArea > QWidget > QWidget {
+    background: transparent;
+}
+
+/* QScrollBar:horizontal {
+    height: 10;
+} */
+
+#widget_31 {
+   
+    border: 1px solid #abdbe3;  
+    border-radius: 5px; 
+    background-color:#343434;
+      
+    margin: 5px;
+           
+}
+QTableWidget {
+    background-color: transparent;  /* Ensure transparency from step 1 */
+    border: none;  /* Remove default border */
+    gridline-color: blue;  /* Set alternate row background color */
+}
+
+QHeaderView::section {
+    padding: 0px;  /* Remove padding for cleaner lines */
+    background-color: lightblue;  /* Optional custom header background */
+}
+
+QHeaderView::section[orientation="horizontal"] {
+    border-bottom: 1px solid blue;  /* Set horizontal line color */
+}

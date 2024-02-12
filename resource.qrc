@@ -1,0 +1,19 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>icons/support.png</file>
+    <file>icons/menu-bar.png</file>
+    <file>icons/switch-off.png</file>
+    <file>icons/switch-on (1).png</file>
+    <file>icons/adjustment.png</file>
+    <file>icons/power-button.png</file>
+    <file>icons/development.png</file>
+    <file>icons/user (1).png</file>
+    <file>icons/cancel.png</file>
+    <file>icons/ai.png</file>
+    <file>icons/user.png</file>
+    <file>icons/agent.png</file>
+    <file>icons/agent-high-resolution-logo.png</file>
+    <file>icons/home.png</file>
+    <file>icons/robot.png</file>
+  </qresource>
+</RCC>
